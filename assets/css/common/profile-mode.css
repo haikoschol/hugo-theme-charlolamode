@@ -50,3 +50,8 @@
     display: --webkit-box;
     --webkit-box-orient: vertical
 }
+
+.profile-description p {
+    margin-block-end: 1em;
+}
+
